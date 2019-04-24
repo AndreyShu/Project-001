@@ -8,3 +8,4 @@ echo "Hello New Branch!";
 =======
 echo "branch master";
 >>>>>>> master
+Just for fun =)
